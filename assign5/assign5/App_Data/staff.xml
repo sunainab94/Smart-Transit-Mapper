@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<staffs>
+  <staff>
+    <username>admin</username>
+    <MailID>admin@hotmail.com</MailID>
+    <password>l/Wz/0+7mOs=</password>
+    <role>admin</role>
+  </staff>
+  <staff>
+    <username>staff</username>
+    <MailID>staff@gmail.com</MailID>
+    <password>fwAGxxvCoDQ=</password>
+    <role>staff</role>
+  </staff>
+</staffs>
